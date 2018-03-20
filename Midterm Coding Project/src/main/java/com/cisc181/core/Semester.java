@@ -1,7 +1,10 @@
 package com.cisc181.core;
 
+import java.util.UUID;
+import java.util.Date;
+
 public class Semester {
 	private UUID SemesterID;
-	private date StartDate;
-	private date EndDate;
+	private Date StartDate;
+	private Date EndDate;
 }
